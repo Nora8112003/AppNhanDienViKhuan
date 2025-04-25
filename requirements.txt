@@ -4,3 +4,4 @@ pandas
 opencv-python-headless
 joblib
 scikit-learn
+utralytics
