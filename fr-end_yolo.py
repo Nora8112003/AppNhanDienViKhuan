@@ -9,7 +9,7 @@ import tempfile
 import os
 
 # Tải mô hình
-model = YOLO("C:/Users/house/Downloads/model yolo/my_model (1)/yolov11-custom3/weights/last.pt")
+model = YOLO("my_model/yolov11-custom3/weights/last.pt")
 
 # Tiêu đề
 st.markdown(
