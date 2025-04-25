@@ -1,10 +1,6 @@
-opencv-python-headless
 streamlit
-pillow
 numpy
-ultralytics
 pandas
-libgl1
-collections
-tempfile
-os
+opencv-python-headless
+joblib
+scikit-learn
