@@ -4,3 +4,7 @@ pandas
 opencv-python-headless
 joblib
 scikit-learn
+ultralytics
+collections
+tempfile
+os
