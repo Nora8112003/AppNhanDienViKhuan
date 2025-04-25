@@ -5,4 +5,6 @@ numpy
 ultralytics
 pandas
 libgl1
-
+collections
+tempfile
+os
